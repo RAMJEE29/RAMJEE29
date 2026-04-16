@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ramjee 👋
 
-<!--
-**RAMJEE29/RAMJEE29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year B.Tech CSE student | Aiming for top tech companies
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- DSA in Java (Apna College + Striver A2Z)
+- Competitive Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Java | DSA | Problem Solving
+- HTML | CSS | JavaScript (till DOM Manipulation)
+
+## 🎯 Goals
+- Master DSA
+- Get into a top tech company
+- Learn full-stack development (MERN)
+
+## 📫 Connect with me
+- LinkedIn: [www.linkedin.com/in/
+ramjee-katiyar-9b6501380
+]
