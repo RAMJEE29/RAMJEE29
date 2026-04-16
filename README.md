@@ -16,6 +16,4 @@ First-year B.Tech CSE student | Aiming for top tech companies
 - Learn full-stack development (MERN)
 
 ## 📫 Connect with me
-- LinkedIn: [www.linkedin.com/in/
-ramjee-katiyar-9b6501380
-]
+- LinkedIn: [www.linkedin.com/in/ramjee-katiyar-9b6501380]
