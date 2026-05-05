@@ -3,7 +3,7 @@
 First-year B.Tech CSE student | Aiming for top tech companies
 
 ## 🚀 Currently Learning
-- DSA in Java (Apna College + Striver A2Z)
+- DSA in Java 
 - Competitive Programming
 
 ## 💻 Skills
